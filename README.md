@@ -1,0 +1,2 @@
+# Pizza-Oddering-Program
+It displays an option to choose whether you want a Small pizza, a medium pizza or a large pizza. Then asks if the customer would like some pepperoni, if Yes it is already stored in the program and so will add that to the amount of the Pizza sized oddered. Then asks if the user would like some extra Cheese and adds that to the count along with its stored variables and values, And will then give the Final Bill for the  Pizza.
